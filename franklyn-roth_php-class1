@@ -1,0 +1,13 @@
+<?php
+	
+		$my_variable='my_variable'; //This is a literal declaration of a variable.
+
+	myFunction()
+	{								//Block style, function is declared with camelCase.
+
+		$my_variable;				//This $my_variable is scopped inside the myFunction function, the one above is different.
+	}
+
+
+
+?>
