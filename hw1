@@ -1,0 +1,17 @@
+<?php
+//Franklyn Roth
+//HW 1
+//02/09/15
+
+
+ $institution='mental';
+
+function someFunction(){
+		$Faculty='crazy';
+		$random='facility';
+}
+
+
+$people=array("Instructor"=>"Dan","People"=>"Me");
+
+?>
